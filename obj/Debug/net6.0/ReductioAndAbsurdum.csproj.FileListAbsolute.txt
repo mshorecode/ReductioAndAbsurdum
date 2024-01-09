@@ -1,0 +1,15 @@
+/home/rshore/workspace/csharp/ReductioAndAbsurdum/bin/Debug/net6.0/ReductioAndAbsurdum
+/home/rshore/workspace/csharp/ReductioAndAbsurdum/bin/Debug/net6.0/ReductioAndAbsurdum.deps.json
+/home/rshore/workspace/csharp/ReductioAndAbsurdum/bin/Debug/net6.0/ReductioAndAbsurdum.runtimeconfig.json
+/home/rshore/workspace/csharp/ReductioAndAbsurdum/bin/Debug/net6.0/ReductioAndAbsurdum.dll
+/home/rshore/workspace/csharp/ReductioAndAbsurdum/bin/Debug/net6.0/ref/ReductioAndAbsurdum.dll
+/home/rshore/workspace/csharp/ReductioAndAbsurdum/bin/Debug/net6.0/ReductioAndAbsurdum.pdb
+/home/rshore/workspace/csharp/ReductioAndAbsurdum/obj/Debug/net6.0/ReductioAndAbsurdum.csproj.AssemblyReference.cache
+/home/rshore/workspace/csharp/ReductioAndAbsurdum/obj/Debug/net6.0/ReductioAndAbsurdum.GeneratedMSBuildEditorConfig.editorconfig
+/home/rshore/workspace/csharp/ReductioAndAbsurdum/obj/Debug/net6.0/ReductioAndAbsurdum.AssemblyInfoInputs.cache
+/home/rshore/workspace/csharp/ReductioAndAbsurdum/obj/Debug/net6.0/ReductioAndAbsurdum.AssemblyInfo.cs
+/home/rshore/workspace/csharp/ReductioAndAbsurdum/obj/Debug/net6.0/ReductioAndAbsurdum.csproj.CoreCompileInputs.cache
+/home/rshore/workspace/csharp/ReductioAndAbsurdum/obj/Debug/net6.0/ReductioAndAbsurdum.dll
+/home/rshore/workspace/csharp/ReductioAndAbsurdum/obj/Debug/net6.0/ref/ReductioAndAbsurdum.dll
+/home/rshore/workspace/csharp/ReductioAndAbsurdum/obj/Debug/net6.0/ReductioAndAbsurdum.pdb
+/home/rshore/workspace/csharp/ReductioAndAbsurdum/obj/Debug/net6.0/ReductioAndAbsurdum.genruntimeconfig.cache

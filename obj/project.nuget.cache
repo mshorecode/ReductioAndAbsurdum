@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "35vntTBpETt3WC46AtwT7s7I6IRAYQaPo9Cmux/BCieGzyqqv0DepI9FU730B3hJlMHi5PYDo2zGBpE9sUruXw==",
+  "success": true,
+  "projectFilePath": "/home/rshore/workspace/csharp/ReductioAndAbsurdum/ReductioAndAbsurdum.csproj",
+  "expectedPackageFiles": [
+    "/home/rshore/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.25/microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}
